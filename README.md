@@ -13,6 +13,7 @@ The study applies statistical modeling to determine whether these emotional vari
 What is the relationship between fear, curiosity, and the consumption of true crime television and podcasts among U.S. audiences?
 
 **Hypotheses**
+
 Null Hypothesis (H₀)
 
 There is no statistically significant relationship between fear, curiosity, and true crime media consumption.
@@ -22,9 +23,11 @@ Alternative Hypothesis (H₁)
 There is a statistically significant relationship between emotional factors (fear and curiosity) and true crime media consumption.
 
 **Methodology**
+
 The study uses a quantitative research design.
 
 Statistical Methods
+
 Logistic regression to model the likelihood of TV and podcast consumption
 
 Chi-square tests to assess associations between categorical variables
@@ -65,18 +68,4 @@ Frequency-based gradient visualizations
 
 **Tools**
 
-R
-
-dplyr
-
-tidyverse
-
-ggplot2
-
-corrplot
-
-reshape2
-
-car
-
-patchwork
+R, dplyr, tidyverse, ggplot2, corrplot, reshape2, car, patchwork
