@@ -1,8 +1,10 @@
 # emotional-influences-of-true-crime
+
 Understanding Media Consumption Patterns
 Analyzed and Designed by Dhruvi Mehta
 
 **Project Overview**
+
 This project examines whether emotional factors influence true crime media consumption in the United States. Specifically, it analyzes the relationship between fear (paranoia), curiosity, and engagement with true crime television and podcasts.
 The study applies statistical modeling to determine whether these emotional variables predict differences in media format preference and consumption frequency.
 
@@ -62,11 +64,19 @@ Correlation heatmap of numeric predictors
 Frequency-based gradient visualizations
 
 **Tools**
+
 R
+
 dplyr
+
 tidyverse
+
 ggplot2
+
 corrplot
+
 reshape2
+
 car
+
 patchwork
