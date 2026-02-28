@@ -7,6 +7,7 @@ This project examines whether emotional factors influence true crime media consu
 The study applies statistical modeling to determine whether these emotional variables predict differences in media format preference and consumption frequency.
 
 **Research Question**
+
 What is the relationship between fear, curiosity, and the consumption of true crime television and podcasts among U.S. audiences?
 
 **Hypotheses**
@@ -35,19 +36,23 @@ Correlation heatmap for selected numeric predictors
 Missing values were removed using drop_na() for relevant variables.
 
 **Key Findings**
+
 TV Consumption
 
 Fear significantly predicts TV consumption. Higher fear levels are associated with increased likelihood of watching true crime television. Curiosity shows a weaker and non-significant effect.
 
 Podcast Consumption
+
 Curiosity is more strongly associated with podcast consumption. Fear is not a significant predictor in the logistic model. Correlation tests indicate weak relationships overall.
 
 Emotional Relationships
+
 Fear and curiosity are positively correlated. Associations between emotional variables and frequency of consumption are modest.
 
 Overall, emotional factors influence media engagement, though effects vary by format.
 
 **Visualizations**
+
 Predicted probability plots for TV and podcast consumption
 
 Probability curves by fear and curiosity levels
